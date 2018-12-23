@@ -89,3 +89,9 @@ img{
 img:hover{
    transform: scale(1.1);
 }
+
+
+.main-log{
+   text-align: center;
+
+}
