@@ -1,2 +1,4 @@
 # Habits
-Forming good habits with a step by step guide
+
+Forming good habits with a step by step guide.
+
